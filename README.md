@@ -80,9 +80,9 @@ GULP-PHP/
     npx gulp
     ```
 
-O processo agora está completo e claro para qualquer desenvolvedor que chegue ao projeto.
+O processo agora está completo e pronto para começar o desenvolvimento.
 
-O Gulp abre o navegador automaticamente na porta 8000 (configuração do servidor PHP embutido).
+O Gulp abre o navegador automaticamente na porta 8000 (configuração do servidor PHP embutido) e também na porta 3000 (padrão do browser sync).
 
 Todas as alterações em arquivos SCSS, JS e PHP são observadas automaticamente e o navegador é atualizado.
 
