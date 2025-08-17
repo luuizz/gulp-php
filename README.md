@@ -157,7 +157,7 @@ Se alguma variável de SEO (como `$pageTitle`, `$pageDescription`, ou `$pageKeyw
 
 ## Deploy
 
-Antes de enviar para produção, não inclua a pasta `node_modules`.
+Antes de enviar para produção, não inclua a pasta `node_modules` e `vendor`.
 
 Apenas mantenha os arquivos compilados em `css/` e `js/`.
 
