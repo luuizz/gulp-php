@@ -1,0 +1,12 @@
+// Global
+
+@use 'variables';
+@use 'mixins';
+@use 'patterns';
+@use 'reset';
+@use 'grid';
+@use 'header';
+
+// Páginas - Se houver
+
+@use 'home';

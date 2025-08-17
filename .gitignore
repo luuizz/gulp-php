@@ -1,0 +1,13 @@
+# Dependências do Node.js
+/node_modules
+
+# Arquivos de lock
+yarn.lock
+package-lock.json
+composer.lock
+
+# Variáveis de ambiente
+.env
+
+# Dependências do Composer
+/vendor/
